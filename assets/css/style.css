@@ -1953,7 +1953,9 @@ header .header-contain {
 header .codex-brand a {
     display: block;
 }
-
+.theme-customizer{
+    display: none;
+}
 header .codex-brand img {
     width: 70px;
     height: auto;
